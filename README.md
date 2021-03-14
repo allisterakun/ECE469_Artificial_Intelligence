@@ -1,4 +1,4 @@
 # ECE469_Artificial_Intelligence
-Source codes for ECE-469 Artificial Intelligence at Cooper Union
+Course works (including source codes) for ECE-469 Artificial Intelligence at Cooper Union
  ## ECE-469:
  This course covers many subtopicsof AI, focusing on a few importantsubtopics in detail. The 'intelligentagent' approach is explained andforms a foundation for the rest of thecourse. Intelligent search: uninformedsearch, depth-first search, breadth-firstsearch, iterative deepening; informedsearch, best-first search, A*,heuristics, hill climbing; constraintsatisfaction problems; intelligent gameplaying, minimax search, alpha-betapruning. Machine learning: probability,Bayesian learning; decision trees;statistical machine learning, neuralnetworks, Naive Bayes, k-nearestneighbors, support vector machines.Natural language processing: syntax,semantics and pragmatics; real-worldknowledge; parsing; statistical NLP.Philosophy of AI: AI and consciousness,the Turing test, the Chinese roomexperiment. Coursework includes twolarge individual programming projects.
